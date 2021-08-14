@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "183996373205",
+    "firebase_url": "https://allin-loyalty-6c9cc.firebaseio.com",
+    "project_id": "allin-loyalty-6c9cc",
+    "storage_bucket": "allin-loyalty-6c9cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183996373205:android:2a8de65430937c1dac2a5c",
+        "android_client_info": {
+          "package_name": "am.allin.loyalty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183996373205-9dnomuv1en7t3p0rg1fa0a2tshbv9rt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "am.allin.loyalty",
+            "certificate_hash": "438534edfa3b2bf0f1795f9256ff7b2344139d7a"
+          }
+        },
+        {
+          "client_id": "183996373205-eang0qh101i529435790p90m3i0g5tfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "am.allin.loyalty",
+            "certificate_hash": "0b56abdfe5dddece847a6c83e550966ff4a0149f"
+          }
+        },
+        {
+          "client_id": "183996373205-8knb0p01o156tboictalivbi85jdd0mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0aN49JVhJqGSWdehx5wa8DVomtQqDyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183996373205-8knb0p01o156tboictalivbi85jdd0mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

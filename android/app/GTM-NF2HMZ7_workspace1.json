@@ -1,0 +1,56 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2021-03-11 14:42:55",
+    "containerVersion": {
+        "path": "accounts/6003401099/containers/41718776/versions/0",
+        "accountId": "6003401099",
+        "containerId": "41718776",
+        "containerVersionId": "0",
+        "container": {
+            "path": "accounts/6003401099/containers/41718776",
+            "accountId": "6003401099",
+            "containerId": "41718776",
+            "name": "ANDROID - all in loyalty",
+            "publicId": "GTM-NF2HMZ7",
+            "usageContext": [
+                "ANDROID_SDK_5"
+            ],
+            "fingerprint": "1615472562983",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6003401099/containers/41718776/workspaces?apiLink=container"
+        },
+        "builtInVariable": [
+            {
+                "accountId": "6003401099",
+                "containerId": "41718776",
+                "type": "APP_ID",
+                "name": "App ID"
+            },
+            {
+                "accountId": "6003401099",
+                "containerId": "41718776",
+                "type": "APP_NAME",
+                "name": "App Name"
+            },
+            {
+                "accountId": "6003401099",
+                "containerId": "41718776",
+                "type": "APP_VERSION_CODE",
+                "name": "App Version Code"
+            },
+            {
+                "accountId": "6003401099",
+                "containerId": "41718776",
+                "type": "APP_VERSION_NAME",
+                "name": "App Version Name"
+            },
+            {
+                "accountId": "6003401099",
+                "containerId": "41718776",
+                "type": "EVENT_NAME",
+                "name": "Event Name"
+            }
+        ],
+        "fingerprint": "1615473775805",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/6003401099/containers/41718776/versions/0?apiLink=version"
+    }
+}
